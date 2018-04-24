@@ -1,0 +1,35 @@
+body{
+  font-family: arial;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3{
+  text-align: center;
+  color: #0a89af;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  background-color: #0a89af;
+}
+
+.searchContainer{
+  background-color: #37454d;
+  padding: 10px;
+}
+
+.search{
+  width: 100%;
+  height: 20px;
+  border: 1px solid grey;
+  border-radius: 4px;
+}
+
+.employeeColumn{
+  min-width: 180px;
+}
