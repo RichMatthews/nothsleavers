@@ -23,7 +23,7 @@
     "jsdom-global": "2.1.1",
     "mocha": "^3.2.0",
     "node-hook": "^0.4.0",
-    "node-sass": "^4.2.0",
+    "node-sass": "^4.13.1",
     "react-addons-test-utils": "^15.4.2",
     "react-dom": "^15.4.2",
     "sass-loader": "^4.1.1",
